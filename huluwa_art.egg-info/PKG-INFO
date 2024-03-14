@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: huluwa_art
+Version: 0.1.31
+Summary: A pip package
+Author: ocean
+License: MIT
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+License-File: LICENSE.txt
+Requires-Dist: log-formatter-ocean
+Requires-Dist: log-formatter-oc
+
+## 项目介绍
+
+打印7个葫芦娃的形象
+
+
+## 许可证
+
+该项目基于 MIT 许可证发布。有关详细信息，请参阅 [LICENSE](LICENSE) 文件。
