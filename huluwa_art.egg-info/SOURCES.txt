@@ -1,8 +1,0 @@
-LICENSE.txt
-README.md
-setup.py
-huluwa_art.egg-info/PKG-INFO
-huluwa_art.egg-info/SOURCES.txt
-huluwa_art.egg-info/dependency_links.txt
-huluwa_art.egg-info/requires.txt
-huluwa_art.egg-info/top_level.txt
